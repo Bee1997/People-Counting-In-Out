@@ -31,7 +31,7 @@ This project implements a **People Counting System** that tracks and counts indi
 
 Here is a snapshot from the annotated output video:
 
-![Annotated Video Output](demo_out.avi)
+![Annotated Video Output](demo_out.gif)
 
 The annotated video shows the bounding boxes, counts, and the designated region for tracking.
 
